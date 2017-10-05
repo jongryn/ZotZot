@@ -10,4 +10,4 @@ How to use app:
 1. Sign in using username: "jgryn"
 2. Use password: "asdf1234"
 3. Set your budget, location, destination, dates, and number of guests
-6. Book your transportation, lodging, and events all within your budget
+4. Book your transportation, lodging, and events all within your budget
